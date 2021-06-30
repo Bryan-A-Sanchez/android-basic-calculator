@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyCalc</string>
+    <string name="five">5</string>
+    <string name="eight">8</string>
+    <string name="two">2</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="seven">7</string>
+    <string name="nine">9</string>
+    <string name="six">6</string>
+    <string name="resultandinput">resultAndInput</string>
+    <string name="result">result</string>
+    <string name="posNeg">-/+</string>
+    <string name="decimal">.</string>
+    <string name="equal_sign">=</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+    <string name="multiply_sign">x</string>
+    <string name="divide_sign">/</string>
+    <string name="result_text">RESULT</string>
+    <string name="sum_example">3+4</string>
+    <string name="delete">DLT</string>
+</resources>
